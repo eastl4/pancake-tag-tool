@@ -23,7 +23,7 @@ Công cụ Gắn Tag Pancake là một script Python được thiết kế để
 2. Tạo môi trường ảo (không bắt buộc nhưng được khuyến khích):
    ```bash
    python -m venv venv
-   source venv/bin/activate   # Trên Windows: venv\Scripts\activate
+   venv\Scripts\activate                     #Trên OS: source venv/bin/activate
    ```
 
 3. Cài đặt các thư viện cần thiết:
